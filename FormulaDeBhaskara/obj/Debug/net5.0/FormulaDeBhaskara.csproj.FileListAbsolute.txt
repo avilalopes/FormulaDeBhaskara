@@ -1,0 +1,16 @@
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.exe
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.deps.json
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.runtimeconfig.json
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.runtimeconfig.dev.json
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.dll
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\ref\FormulaDeBhaskara.dll
+D:\git\FormulaDeBhaskara\bin\Debug\net5.0\FormulaDeBhaskara.pdb
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.csprojAssemblyReference.cache
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.AssemblyInfoInputs.cache
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.AssemblyInfo.cs
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.dll
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\ref\FormulaDeBhaskara.dll
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.pdb
+D:\git\FormulaDeBhaskara\obj\Debug\net5.0\FormulaDeBhaskara.genruntimeconfig.cache
